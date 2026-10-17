@@ -1,0 +1,4 @@
+CC4G-MANIFEST-TEST
+version=0.0.1
+size=47232
+note=bench test of the FOTA download path, not a firmware
