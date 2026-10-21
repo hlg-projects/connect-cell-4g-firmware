@@ -1,6 +1,6 @@
 CC4G1
-version=1.2
+version=1.3
 hw=H1.0
-size=44956
-sha256=d150f7f6753587f2a53688e40e1b8019babe9d4858ef660ac475ce874e94f02f
-file=cc4g-1.2.bin
+size=44828
+sha256=2bed18c7b7973848e71ff8bb6aae6dc092589c56fd5675853342d28138f1950d
+file=cc4g-1.3.bin
