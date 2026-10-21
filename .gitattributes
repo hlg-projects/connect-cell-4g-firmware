@@ -1,0 +1,2 @@
+*.bin -text
+manifest.txt text eol=lf

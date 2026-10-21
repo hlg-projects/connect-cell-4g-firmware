@@ -1,0 +1,6 @@
+CC4G1
+version=1.1
+hw=H1.0
+size=45056
+sha256=9866ff0bc0d28921ad10692cff8097cb090b37a48f92785202dec6771a62f15f
+file=cc4g-1.1.bin
